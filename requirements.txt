@@ -2,3 +2,5 @@ pandas
 matplotlib
 Jinja2
 sklearn
+keras
+tensorflow
