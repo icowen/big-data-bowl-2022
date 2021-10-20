@@ -4,3 +4,4 @@ Jinja2
 sklearn
 keras
 tensorflow
+seaborn
